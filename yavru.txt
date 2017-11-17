@@ -1,0 +1,11 @@
+"Doğum No":  {
+        "Anaadı" : [
+        {
+            "RecNo" : {
+            "Cinsiyet" : "Erkek",
+            "SirtNo" : "201",
+            "Tarih" : "2017-10-21",
+            "isim" : "AKO"
+            }
+        ]
+        }
