@@ -68,7 +68,7 @@ for kesilen in range(len(content)):
             sondurum_Erkek = sondurum_Erkek -1
             
         sondurum_Toplam = sondurum_Disi + sondurum_Erkek + sondurum_Disikuzu + sondurum_Erkekkuzu
-        sn=u'SırtNo'
+        sn=u'SirtNo'
         result[sn]=sirtno    
         
         
